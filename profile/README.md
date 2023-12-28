@@ -16,17 +16,12 @@ We envision a future where artificial intelligence is an indispensable tool for 
 - **Rafael Goji (Co-founder):** A software engineer with experience at Huawei, skills in project management, and a former researcher at the University of Notre Dame. His expertise in artificial intelligence projects is crucial in developing scalable and efficient products.
 
 ## Introducing "Renata"
-Renata is our flagship product, embodying our mission and expertise. This innovative software solution utilizes advanced LLMs to enhance business operations in various sectors.
-
-### Features of Renata:
-- **Innovative Use of LLMs:** Leverages cutting-edge technology for superior performance.
-- **Customization and Scalability:** Tailored to meet specific business needs while capable of growing with your business.
-- **User-Friendly Interface:** Designed for ease of use, ensuring a smooth user experience.
+Renata is a GPT-based assistant that handles appointments via WhatsApp. Renata provides user-friendly appointment management.
 
 Stay tuned for updates, and don't hesitate to reach out for collaborations or queries.
 
 ---
 
-_Thank you for visiting our GitHub page!_
+_Contact us at: contacto@goji.mx_
 
 ---
