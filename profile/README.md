@@ -12,6 +12,7 @@ At Goji.mx, we harness the power of Large Language Models (LLMs) for text and vo
 We envision a future where artificial intelligence is an indispensable tool for business success and innovation.
 
 ## Our Team 🤝
+- **Paulina Avilés (Marketing)**
 - **Samuel López (Business)**
 - **Rafael Goji (Developer)**
 
