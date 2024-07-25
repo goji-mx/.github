@@ -12,9 +12,12 @@ At Goji.mx, we harness the power of Large Language Models (LLMs) for text and vo
 We envision a future where artificial intelligence is an indispensable tool for business success and innovation.
 
 ## Our Team 🤝
-- **Paulina Avilés (Marketing)**
 - **Samuel López (Business)**
+- **Gil (Business)**
 - **Rafael Goji (Developer)**
+- **Manu (Developer)**
+- **Xayil (Developer)**
+- **Gus (Developer)**
 
 ## Introducing "Renata"
 Renata is a GPT-based assistant that handles appointments via WhatsApp. Renata provides user-friendly appointment management.
